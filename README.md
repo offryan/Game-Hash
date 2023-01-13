@@ -1,8 +1,8 @@
-### Jogo da velha || Hash
+## Jogo da velha || Hash
 
   O jogo da velha também chamado de jogo do galo e três em linha, é um jogo e/ou passatempo popular. Com regras extremamente simples, que não traz grandes dificuldades para seus jogadores e é facilmente aprendido.
 
-## Regras:
+### Regras:
   
   No modo básico do jogo, participam duas pessoas, que jogam alternadamente, preenchendo cada um dos
 espaços vazios. Cada participante poderá usar um símbolo (X ou O). Vence o jogador que conseguir
